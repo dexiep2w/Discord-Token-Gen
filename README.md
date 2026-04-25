@@ -4,7 +4,7 @@
 
 <h3 align="center">⭐ THIS REPO WILL BE PUBLIC AT 100 STARS ⭐</h3>
 
-<p align="center"><b>Current: 5 / 100</b></p>
+<p align="center"><b>Current: 9 / 100</b></p>
 
 <br>
 
